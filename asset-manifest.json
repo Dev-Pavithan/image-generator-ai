@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-generator-ai/static/css/main.59e54860.css",
+    "main.js": "/image-generator-ai/static/js/main.127b3623.js",
+    "static/js/453.6d46b314.chunk.js": "/image-generator-ai/static/js/453.6d46b314.chunk.js",
+    "index.html": "/image-generator-ai/index.html",
+    "main.59e54860.css.map": "/image-generator-ai/static/css/main.59e54860.css.map",
+    "main.127b3623.js.map": "/image-generator-ai/static/js/main.127b3623.js.map",
+    "453.6d46b314.chunk.js.map": "/image-generator-ai/static/js/453.6d46b314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59e54860.css",
+    "static/js/main.127b3623.js"
+  ]
+}
