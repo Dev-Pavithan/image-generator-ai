@@ -1,0 +1,62 @@
+
+/* Container for Recent Results in a row */
+.recentResultsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Style for the RecentResults component */
+.recentResultsContainer {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 600px;
+}
+
+
+
+/* Wrapper for individual images and labels */
+.recentImageWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    max-width: 150px;
+}
+
+/* Styling for individual images */
+.recentImage {
+    width:  150px;
+    height: 150px;
+    object-fit: cover;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+}
+
+.recentImage:hover {
+    transform: scale(1.05);
+    border-color: #5900ff;
+}
+
+/* Styling for image labels */
+.imageLabel {
+    margin-top: 5px;
+    font-size: 0.8rem;
+    color: #000000;
+    text-align: center;
+
+}
+
+/* Header for the recent images section */
+.recentHeader {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    color: #000000;
+    font-size: larger;
+    font-weight: bolder;
+}
